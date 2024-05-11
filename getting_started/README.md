@@ -25,7 +25,11 @@ If you have a specific question, the [FAQ](../www/content/faq.md) might have an 
 - [Zed](https://zed.dev/download), since Version 0.133.5
   - search and install roc extension (action `zed: extensions`)
   - in case of errors look into the Zed log (action `zed: open log`)
-- For other editors like Vim, Helix or Emacs [see](https://github.com/faldor20/tree-sitter-roc)
+- [Neovim](https://neovim.org)
+  - syntax highlighting, completion, type hints
+  - see [this guide](neovim.md)
+- For other editors like Vim, Helix or Emacs
+  [see](https://github.com/faldor20/tree-sitter-roc) for syntax highlighting
 
 ## Running Examples
 
